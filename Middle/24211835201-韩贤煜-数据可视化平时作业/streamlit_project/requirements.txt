@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly
+streamlit
+folium
+scikit-learn
+openai
+dotenv
+kaleido
+openpyxl
