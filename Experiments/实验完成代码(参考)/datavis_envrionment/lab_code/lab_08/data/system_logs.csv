@@ -1,0 +1,1001 @@
+timestamp,level,message,source,user
+2024-06-01 00:00:00,INFO,User Alice performed action logout.,module1,Alice
+2024-06-01 00:26:00,WARNING,User Bob performed action logout.,module1,Bob
+2024-06-01 00:35:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-01 00:40:00,INFO,Warning: Resource CPU usage is high..,module2,Charlie
+2024-06-01 01:28:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-01 01:47:00,ERROR,Error 533: Error occurred in module profile..,module1,Charlie
+2024-06-01 02:31:00,INFO,User Charlie logged in.,module2,Charlie
+2024-06-01 03:05:00,ERROR,Error 323: Error occurred in module auth..,module2,Alice
+2024-06-01 03:32:00,DEBUG,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-01 04:11:00,DEBUG,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-01 04:48:00,ERROR,User Diana performed action login.,module3,Diana
+2024-06-01 05:10:00,INFO,Error 929: Error occurred in module profile..,module1,Charlie
+2024-06-01 05:29:00,INFO,User Diana logged in.,module2,Diana
+2024-06-01 06:05:00,INFO,Error 162: Error occurred in module profile..,module2,Alice
+2024-06-01 06:50:00,INFO,User Diana performed action logout.,module3,Diana
+2024-06-01 07:11:00,WARNING,User Diana logged in.,module3,Diana
+2024-06-01 07:46:00,ERROR,User Diana performed action login.,module2,Diana
+2024-06-01 08:30:00,INFO,Warning: Resource CPU usage is high..,module2,Charlie
+2024-06-01 09:25:00,ERROR,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-01 10:24:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-01 10:42:00,INFO,User Alice logged in.,module3,Alice
+2024-06-01 11:06:00,DEBUG,User Charlie performed action logout.,module2,Charlie
+2024-06-01 11:32:00,DEBUG,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-01 12:21:00,ERROR,User Bob logged in.,module3,Bob
+2024-06-01 12:23:00,WARNING,User Alice logged in.,module3,Alice
+2024-06-01 13:11:00,ERROR,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-01 13:53:00,ERROR,User Diana performed action update.,module1,Diana
+2024-06-01 14:44:00,WARNING,User Diana performed action logout.,module1,Diana
+2024-06-01 15:05:00,DEBUG,Error 208: Error occurred in module profile..,module2,Diana
+2024-06-01 15:38:00,DEBUG,User Diana performed action logout.,module1,Diana
+2024-06-01 16:04:00,INFO,Error 597: Error occurred in module auth..,module1,Diana
+2024-06-01 16:58:00,DEBUG,User Bob performed action update.,module3,Bob
+2024-06-01 17:37:00,ERROR,Warning: Resource Disk usage is high..,module3,Charlie
+2024-06-01 17:45:00,ERROR,Error 841: Error occurred in module profile..,module1,Bob
+2024-06-01 17:46:00,ERROR,Warning: Resource Disk usage is high..,module2,Diana
+2024-06-01 18:32:00,DEBUG,User Diana logged in.,module2,Diana
+2024-06-01 19:03:00,WARNING,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-01 19:58:00,DEBUG,Error 707: Error occurred in module profile..,module3,Charlie
+2024-06-01 20:30:00,DEBUG,User Diana performed action search.,module1,Diana
+2024-06-01 21:19:00,INFO,Error 544: Error occurred in module auth..,module1,Alice
+2024-06-01 21:28:00,INFO,Error 165: Error occurred in module search..,module1,Charlie
+2024-06-01 21:50:00,ERROR,User Alice performed action update.,module3,Alice
+2024-06-01 22:33:00,WARNING,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-01 23:06:00,DEBUG,User Diana logged in.,module1,Diana
+2024-06-01 23:59:00,DEBUG,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-02 00:28:00,DEBUG,User Charlie logged in.,module1,Charlie
+2024-06-02 00:36:00,WARNING,Warning: Resource Disk usage is high..,module2,Diana
+2024-06-02 01:01:00,WARNING,User Charlie logged in.,module3,Charlie
+2024-06-02 01:50:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-02 01:56:00,DEBUG,User Charlie performed action update.,module3,Charlie
+2024-06-02 02:44:00,DEBUG,User Diana performed action search.,module3,Diana
+2024-06-02 02:51:00,ERROR,Error 850: Error occurred in module search..,module3,Charlie
+2024-06-02 03:39:00,INFO,Error 628: Error occurred in module search..,module3,Bob
+2024-06-02 03:58:00,WARNING,User Charlie performed action login.,module1,Charlie
+2024-06-02 04:54:00,ERROR,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-02 05:13:00,INFO,Warning: Resource Memory usage is high..,module2,Diana
+2024-06-02 06:07:00,WARNING,Warning: Resource Disk usage is high..,module1,Alice
+2024-06-02 06:46:00,WARNING,User Diana performed action update.,module3,Diana
+2024-06-02 07:38:00,DEBUG,User Diana logged in.,module2,Diana
+2024-06-02 07:47:00,DEBUG,Error 102: Error occurred in module auth..,module1,Alice
+2024-06-02 08:36:00,ERROR,Warning: Resource Memory usage is high..,module1,Alice
+2024-06-02 08:55:00,ERROR,User Alice logged in.,module1,Alice
+2024-06-02 09:24:00,ERROR,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-02 10:13:00,DEBUG,User Bob performed action login.,module3,Bob
+2024-06-02 10:29:00,DEBUG,Error 324: Error occurred in module search..,module1,Alice
+2024-06-02 11:27:00,INFO,Error 515: Error occurred in module auth..,module1,Bob
+2024-06-02 12:27:00,DEBUG,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-02 12:38:00,DEBUG,Error 415: Error occurred in module search..,module1,Diana
+2024-06-02 13:23:00,INFO,User Charlie performed action search.,module1,Charlie
+2024-06-02 13:51:00,ERROR,Error 662: Error occurred in module auth..,module3,Alice
+2024-06-02 14:09:00,ERROR,User Bob logged in.,module3,Bob
+2024-06-02 14:53:00,WARNING,Error 259: Error occurred in module search..,module3,Bob
+2024-06-02 15:31:00,INFO,User Charlie performed action search.,module1,Charlie
+2024-06-02 16:13:00,ERROR,User Diana performed action update.,module1,Diana
+2024-06-02 16:50:00,WARNING,User Bob logged in.,module2,Bob
+2024-06-02 16:58:00,INFO,User Diana logged in.,module3,Diana
+2024-06-02 17:41:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-02 17:57:00,WARNING,User Bob performed action search.,module1,Bob
+2024-06-02 18:28:00,ERROR,Warning: Resource CPU usage is high..,module2,Diana
+2024-06-02 18:33:00,ERROR,User Charlie performed action search.,module2,Charlie
+2024-06-02 19:21:00,ERROR,User Alice logged in.,module1,Alice
+2024-06-02 19:50:00,DEBUG,User Diana performed action logout.,module1,Diana
+2024-06-02 20:35:00,DEBUG,Error 459: Error occurred in module profile..,module2,Charlie
+2024-06-02 20:45:00,WARNING,User Bob performed action update.,module1,Bob
+2024-06-02 21:24:00,INFO,Error 752: Error occurred in module search..,module3,Diana
+2024-06-02 22:04:00,WARNING,Warning: Resource CPU usage is high..,module1,Alice
+2024-06-02 22:05:00,DEBUG,User Charlie logged in.,module2,Charlie
+2024-06-02 22:46:00,DEBUG,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-02 23:21:00,INFO,User Alice logged in.,module3,Alice
+2024-06-02 23:27:00,DEBUG,Error 353: Error occurred in module profile..,module3,Charlie
+2024-06-02 23:39:00,WARNING,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-03 00:23:00,WARNING,Error 827: Error occurred in module auth..,module1,Diana
+2024-06-03 00:51:00,WARNING,User Charlie logged in.,module1,Charlie
+2024-06-03 01:04:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-03 01:54:00,INFO,User Bob performed action login.,module2,Bob
+2024-06-03 02:25:00,WARNING,User Diana performed action search.,module1,Diana
+2024-06-03 03:04:00,ERROR,User Alice performed action login.,module1,Alice
+2024-06-03 04:04:00,DEBUG,Warning: Resource Memory usage is high..,module3,Alice
+2024-06-03 04:46:00,WARNING,Warning: Resource Disk usage is high..,module1,Alice
+2024-06-03 05:19:00,INFO,Error 521: Error occurred in module profile..,module3,Charlie
+2024-06-03 05:51:00,INFO,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-03 06:41:00,DEBUG,Error 896: Error occurred in module search..,module1,Bob
+2024-06-03 07:25:00,WARNING,Warning: Resource Memory usage is high..,module2,Charlie
+2024-06-03 07:48:00,INFO,User Bob logged in.,module3,Bob
+2024-06-03 08:20:00,WARNING,User Alice logged in.,module1,Alice
+2024-06-03 08:52:00,INFO,User Charlie performed action login.,module2,Charlie
+2024-06-03 09:31:00,WARNING,User Charlie performed action update.,module2,Charlie
+2024-06-03 10:03:00,ERROR,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-03 10:36:00,INFO,Error 768: Error occurred in module auth..,module3,Diana
+2024-06-03 10:52:00,INFO,Error 367: Error occurred in module search..,module3,Diana
+2024-06-03 11:41:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-03 11:53:00,WARNING,User Bob performed action search.,module1,Bob
+2024-06-03 12:18:00,INFO,Warning: Resource Memory usage is high..,module3,Diana
+2024-06-03 13:09:00,INFO,User Charlie performed action update.,module3,Charlie
+2024-06-03 13:54:00,INFO,User Bob performed action search.,module2,Bob
+2024-06-03 14:38:00,ERROR,User Bob performed action login.,module3,Bob
+2024-06-03 14:43:00,ERROR,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-03 15:12:00,WARNING,Error 592: Error occurred in module profile..,module2,Charlie
+2024-06-03 15:22:00,ERROR,User Alice logged in.,module2,Alice
+2024-06-03 16:06:00,ERROR,User Bob performed action search.,module1,Bob
+2024-06-03 16:21:00,ERROR,User Alice performed action update.,module3,Alice
+2024-06-03 17:14:00,ERROR,User Alice performed action update.,module3,Alice
+2024-06-03 18:12:00,INFO,User Bob performed action login.,module1,Bob
+2024-06-03 18:57:00,ERROR,Warning: Resource Memory usage is high..,module2,Alice
+2024-06-03 19:03:00,ERROR,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-03 19:43:00,ERROR,Warning: Resource Disk usage is high..,module1,Alice
+2024-06-03 20:38:00,WARNING,User Alice logged in.,module3,Alice
+2024-06-03 21:16:00,WARNING,Error 427: Error occurred in module auth..,module1,Alice
+2024-06-03 21:59:00,ERROR,User Charlie performed action update.,module3,Charlie
+2024-06-03 22:09:00,ERROR,User Diana logged in.,module1,Diana
+2024-06-03 22:43:00,INFO,Warning: Resource CPU usage is high..,module2,Charlie
+2024-06-03 23:32:00,ERROR,Error 382: Error occurred in module profile..,module1,Charlie
+2024-06-04 00:32:00,WARNING,User Charlie performed action login.,module3,Charlie
+2024-06-04 01:00:00,DEBUG,Warning: Resource CPU usage is high..,module2,Alice
+2024-06-04 01:49:00,ERROR,User Diana performed action search.,module3,Diana
+2024-06-04 02:07:00,WARNING,User Diana performed action search.,module1,Diana
+2024-06-04 02:51:00,WARNING,User Alice logged in.,module1,Alice
+2024-06-04 03:42:00,WARNING,User Bob performed action update.,module1,Bob
+2024-06-04 04:32:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-04 05:29:00,INFO,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-04 05:49:00,ERROR,User Alice logged in.,module3,Alice
+2024-06-04 06:37:00,WARNING,Error 144: Error occurred in module profile..,module3,Charlie
+2024-06-04 07:09:00,DEBUG,User Diana performed action login.,module3,Diana
+2024-06-04 07:34:00,DEBUG,User Diana performed action update.,module1,Diana
+2024-06-04 07:41:00,ERROR,Warning: Resource Memory usage is high..,module2,Bob
+2024-06-04 08:33:00,DEBUG,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-04 09:26:00,DEBUG,User Bob performed action logout.,module1,Bob
+2024-06-04 09:50:00,INFO,Error 378: Error occurred in module search..,module3,Charlie
+2024-06-04 10:05:00,INFO,Warning: Resource CPU usage is high..,module1,Alice
+2024-06-04 10:57:00,WARNING,Error 919: Error occurred in module search..,module1,Alice
+2024-06-04 11:33:00,WARNING,User Diana logged in.,module3,Diana
+2024-06-04 12:07:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-04 13:06:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-04 13:19:00,DEBUG,User Bob performed action search.,module2,Bob
+2024-06-04 13:43:00,DEBUG,User Bob performed action search.,module2,Bob
+2024-06-04 14:43:00,WARNING,User Alice logged in.,module2,Alice
+2024-06-04 15:04:00,INFO,Error 446: Error occurred in module search..,module1,Alice
+2024-06-04 15:30:00,INFO,Error 328: Error occurred in module search..,module3,Alice
+2024-06-04 16:17:00,ERROR,User Alice logged in.,module1,Alice
+2024-06-04 16:21:00,INFO,User Alice performed action update.,module1,Alice
+2024-06-04 16:40:00,INFO,User Diana performed action logout.,module2,Diana
+2024-06-04 17:06:00,INFO,User Diana performed action login.,module1,Diana
+2024-06-04 17:07:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-04 17:36:00,WARNING,Error 532: Error occurred in module search..,module3,Bob
+2024-06-04 17:37:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-04 17:57:00,WARNING,Error 531: Error occurred in module profile..,module2,Bob
+2024-06-04 18:22:00,INFO,Error 553: Error occurred in module search..,module2,Charlie
+2024-06-04 19:20:00,INFO,User Alice performed action logout.,module2,Alice
+2024-06-04 19:51:00,INFO,User Alice logged in.,module1,Alice
+2024-06-04 20:25:00,DEBUG,Warning: Resource Memory usage is high..,module2,Diana
+2024-06-04 20:27:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-04 20:46:00,DEBUG,User Diana logged in.,module3,Diana
+2024-06-04 21:38:00,ERROR,User Diana performed action search.,module2,Diana
+2024-06-04 21:53:00,DEBUG,Error 838: Error occurred in module profile..,module2,Charlie
+2024-06-04 22:12:00,INFO,User Bob logged in.,module1,Bob
+2024-06-04 22:37:00,WARNING,User Alice performed action login.,module1,Alice
+2024-06-04 23:15:00,ERROR,Error 828: Error occurred in module search..,module2,Charlie
+2024-06-05 00:02:00,DEBUG,Warning: Resource CPU usage is high..,module3,Charlie
+2024-06-05 00:33:00,ERROR,User Alice performed action login.,module1,Alice
+2024-06-05 01:25:00,WARNING,User Bob logged in.,module1,Bob
+2024-06-05 02:04:00,WARNING,Warning: Resource Memory usage is high..,module2,Alice
+2024-06-05 02:05:00,WARNING,User Bob performed action search.,module3,Bob
+2024-06-05 02:20:00,WARNING,User Alice logged in.,module1,Alice
+2024-06-05 03:06:00,ERROR,Error 257: Error occurred in module profile..,module2,Charlie
+2024-06-05 03:53:00,WARNING,Warning: Resource Disk usage is high..,module3,Charlie
+2024-06-05 04:06:00,ERROR,User Alice performed action update.,module1,Alice
+2024-06-05 04:38:00,DEBUG,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-05 05:27:00,ERROR,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-05 05:29:00,ERROR,User Alice logged in.,module1,Alice
+2024-06-05 06:07:00,WARNING,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-05 06:31:00,DEBUG,Error 872: Error occurred in module search..,module3,Diana
+2024-06-05 06:41:00,DEBUG,User Diana performed action update.,module3,Diana
+2024-06-05 07:19:00,WARNING,User Alice performed action search.,module1,Alice
+2024-06-05 07:55:00,DEBUG,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-05 08:11:00,WARNING,Error 848: Error occurred in module auth..,module3,Diana
+2024-06-05 08:58:00,INFO,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-05 09:13:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-05 09:38:00,WARNING,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-05 09:59:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-05 10:11:00,INFO,Warning: Resource Memory usage is high..,module2,Bob
+2024-06-05 10:52:00,ERROR,User Alice performed action update.,module3,Alice
+2024-06-05 11:11:00,ERROR,Warning: Resource Disk usage is high..,module2,Charlie
+2024-06-05 11:29:00,ERROR,User Charlie performed action update.,module3,Charlie
+2024-06-05 11:37:00,DEBUG,Error 981: Error occurred in module search..,module3,Alice
+2024-06-05 11:56:00,INFO,Error 365: Error occurred in module search..,module2,Alice
+2024-06-05 12:01:00,INFO,User Bob logged in.,module3,Bob
+2024-06-05 12:32:00,WARNING,User Alice logged in.,module3,Alice
+2024-06-05 13:08:00,ERROR,Warning: Resource CPU usage is high..,module1,Alice
+2024-06-05 13:56:00,INFO,User Alice logged in.,module2,Alice
+2024-06-05 14:31:00,WARNING,Error 414: Error occurred in module auth..,module1,Diana
+2024-06-05 15:14:00,WARNING,User Alice performed action logout.,module3,Alice
+2024-06-05 15:42:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-05 16:09:00,ERROR,User Alice logged in.,module3,Alice
+2024-06-05 16:30:00,ERROR,Error 573: Error occurred in module profile..,module2,Diana
+2024-06-05 17:12:00,INFO,Error 971: Error occurred in module auth..,module1,Diana
+2024-06-05 17:50:00,INFO,Error 328: Error occurred in module search..,module1,Bob
+2024-06-05 17:59:00,DEBUG,User Diana performed action update.,module3,Diana
+2024-06-05 18:30:00,WARNING,Error 139: Error occurred in module auth..,module3,Bob
+2024-06-05 18:51:00,WARNING,Warning: Resource Disk usage is high..,module2,Charlie
+2024-06-05 19:42:00,ERROR,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-05 19:55:00,DEBUG,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-05 20:28:00,ERROR,User Diana performed action update.,module2,Diana
+2024-06-05 21:16:00,WARNING,User Bob performed action logout.,module1,Bob
+2024-06-05 21:48:00,WARNING,Error 759: Error occurred in module search..,module1,Alice
+2024-06-05 21:54:00,DEBUG,Warning: Resource CPU usage is high..,module3,Charlie
+2024-06-05 22:05:00,INFO,User Bob logged in.,module1,Bob
+2024-06-05 22:59:00,WARNING,Warning: Resource Memory usage is high..,module1,Alice
+2024-06-05 23:58:00,WARNING,User Alice performed action search.,module1,Alice
+2024-06-06 00:22:00,INFO,Error 795: Error occurred in module profile..,module3,Charlie
+2024-06-06 00:33:00,ERROR,User Bob logged in.,module2,Bob
+2024-06-06 00:39:00,WARNING,Error 133: Error occurred in module auth..,module1,Alice
+2024-06-06 00:41:00,WARNING,Warning: Resource Memory usage is high..,module1,Charlie
+2024-06-06 01:03:00,INFO,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-06 01:57:00,INFO,User Alice logged in.,module3,Alice
+2024-06-06 02:40:00,DEBUG,Error 922: Error occurred in module search..,module3,Charlie
+2024-06-06 03:38:00,WARNING,Error 720: Error occurred in module profile..,module2,Diana
+2024-06-06 03:42:00,DEBUG,Warning: Resource Memory usage is high..,module2,Bob
+2024-06-06 04:26:00,DEBUG,User Charlie logged in.,module1,Charlie
+2024-06-06 05:18:00,ERROR,Error 754: Error occurred in module auth..,module2,Charlie
+2024-06-06 05:39:00,WARNING,Warning: Resource Memory usage is high..,module2,Alice
+2024-06-06 06:15:00,ERROR,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-06 06:19:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-06 06:20:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-06 06:57:00,DEBUG,User Bob performed action update.,module2,Bob
+2024-06-06 07:22:00,ERROR,User Bob performed action logout.,module3,Bob
+2024-06-06 08:00:00,DEBUG,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-06 08:41:00,WARNING,User Diana performed action logout.,module2,Diana
+2024-06-06 09:19:00,ERROR,Error 279: Error occurred in module profile..,module3,Diana
+2024-06-06 09:34:00,ERROR,Error 853: Error occurred in module search..,module3,Bob
+2024-06-06 09:54:00,INFO,Error 927: Error occurred in module auth..,module3,Alice
+2024-06-06 10:42:00,WARNING,User Diana performed action logout.,module3,Diana
+2024-06-06 11:09:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-06 11:55:00,DEBUG,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-06 12:47:00,WARNING,Error 619: Error occurred in module auth..,module1,Charlie
+2024-06-06 13:24:00,DEBUG,User Diana performed action login.,module1,Diana
+2024-06-06 13:58:00,DEBUG,User Charlie performed action logout.,module2,Charlie
+2024-06-06 14:52:00,ERROR,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-06 15:23:00,WARNING,Error 664: Error occurred in module auth..,module1,Charlie
+2024-06-06 16:05:00,ERROR,User Diana performed action update.,module1,Diana
+2024-06-06 16:58:00,ERROR,User Charlie performed action update.,module3,Charlie
+2024-06-06 17:16:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-06 17:21:00,DEBUG,Error 291: Error occurred in module profile..,module2,Alice
+2024-06-06 18:07:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-06 18:58:00,WARNING,Error 444: Error occurred in module profile..,module1,Bob
+2024-06-06 19:38:00,DEBUG,Error 799: Error occurred in module profile..,module3,Diana
+2024-06-06 20:27:00,INFO,Warning: Resource Memory usage is high..,module1,Bob
+2024-06-06 20:42:00,INFO,User Charlie performed action search.,module1,Charlie
+2024-06-06 21:10:00,INFO,Error 515: Error occurred in module auth..,module1,Alice
+2024-06-06 21:27:00,WARNING,User Bob performed action update.,module2,Bob
+2024-06-06 22:25:00,WARNING,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-06 23:05:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-06 23:34:00,WARNING,User Alice logged in.,module1,Alice
+2024-06-07 00:21:00,DEBUG,Warning: Resource CPU usage is high..,module3,Diana
+2024-06-07 00:57:00,WARNING,User Charlie logged in.,module3,Charlie
+2024-06-07 01:21:00,WARNING,Warning: Resource Disk usage is high..,module1,Charlie
+2024-06-07 01:29:00,DEBUG,User Charlie performed action logout.,module2,Charlie
+2024-06-07 01:48:00,INFO,User Diana logged in.,module2,Diana
+2024-06-07 02:25:00,ERROR,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-07 03:04:00,WARNING,User Alice performed action update.,module1,Alice
+2024-06-07 03:20:00,INFO,Warning: Resource CPU usage is high..,module2,Alice
+2024-06-07 03:29:00,DEBUG,User Bob performed action login.,module2,Bob
+2024-06-07 04:13:00,INFO,Warning: Resource Disk usage is high..,module3,Charlie
+2024-06-07 04:43:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-07 05:19:00,WARNING,Warning: Resource Memory usage is high..,module2,Diana
+2024-06-07 06:01:00,ERROR,Error 104: Error occurred in module auth..,module1,Bob
+2024-06-07 06:57:00,INFO,User Alice logged in.,module1,Alice
+2024-06-07 07:40:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-07 08:08:00,WARNING,User Charlie performed action login.,module2,Charlie
+2024-06-07 08:36:00,DEBUG,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-07 09:30:00,WARNING,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-07 09:41:00,WARNING,User Diana performed action login.,module2,Diana
+2024-06-07 10:20:00,DEBUG,User Bob logged in.,module1,Bob
+2024-06-07 10:50:00,DEBUG,Warning: Resource Memory usage is high..,module3,Alice
+2024-06-07 11:13:00,DEBUG,User Alice logged in.,module2,Alice
+2024-06-07 12:01:00,WARNING,Error 883: Error occurred in module auth..,module3,Diana
+2024-06-07 12:58:00,WARNING,User Diana logged in.,module1,Diana
+2024-06-07 13:06:00,WARNING,User Charlie logged in.,module1,Charlie
+2024-06-07 13:46:00,WARNING,User Bob logged in.,module2,Bob
+2024-06-07 14:43:00,WARNING,User Charlie performed action logout.,module3,Charlie
+2024-06-07 15:18:00,WARNING,User Bob performed action search.,module1,Bob
+2024-06-07 15:21:00,ERROR,User Bob performed action logout.,module3,Bob
+2024-06-07 16:12:00,DEBUG,Error 408: Error occurred in module profile..,module2,Alice
+2024-06-07 17:10:00,WARNING,User Bob logged in.,module1,Bob
+2024-06-07 17:19:00,WARNING,Error 123: Error occurred in module profile..,module3,Diana
+2024-06-07 18:02:00,WARNING,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-07 18:26:00,WARNING,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-07 18:32:00,WARNING,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-07 18:41:00,INFO,Error 620: Error occurred in module auth..,module2,Charlie
+2024-06-07 18:48:00,ERROR,Warning: Resource CPU usage is high..,module2,Alice
+2024-06-07 18:54:00,DEBUG,User Alice performed action login.,module1,Alice
+2024-06-07 19:28:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-07 19:34:00,ERROR,User Alice logged in.,module3,Alice
+2024-06-07 20:01:00,WARNING,Error 411: Error occurred in module auth..,module2,Alice
+2024-06-07 20:18:00,ERROR,Warning: Resource Memory usage is high..,module1,Alice
+2024-06-07 20:57:00,DEBUG,User Diana logged in.,module3,Diana
+2024-06-07 21:02:00,INFO,Warning: Resource CPU usage is high..,module2,Alice
+2024-06-07 21:53:00,DEBUG,Error 244: Error occurred in module search..,module3,Charlie
+2024-06-07 21:57:00,INFO,Warning: Resource CPU usage is high..,module1,Alice
+2024-06-07 22:06:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-07 22:19:00,DEBUG,User Alice logged in.,module2,Alice
+2024-06-07 22:50:00,ERROR,User Diana performed action search.,module2,Diana
+2024-06-07 23:08:00,INFO,Warning: Resource Memory usage is high..,module3,Diana
+2024-06-07 23:20:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-07 23:48:00,INFO,User Charlie logged in.,module2,Charlie
+2024-06-08 00:23:00,ERROR,User Bob performed action search.,module1,Bob
+2024-06-08 01:14:00,ERROR,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-08 01:36:00,WARNING,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-08 01:56:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-08 02:10:00,INFO,User Alice logged in.,module2,Alice
+2024-06-08 02:11:00,ERROR,Error 287: Error occurred in module search..,module2,Diana
+2024-06-08 02:35:00,ERROR,Warning: Resource Memory usage is high..,module3,Diana
+2024-06-08 02:44:00,ERROR,User Bob logged in.,module2,Bob
+2024-06-08 03:42:00,WARNING,User Alice logged in.,module1,Alice
+2024-06-08 04:29:00,DEBUG,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-08 04:32:00,INFO,User Bob logged in.,module2,Bob
+2024-06-08 05:09:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-08 05:16:00,WARNING,Warning: Resource Memory usage is high..,module1,Charlie
+2024-06-08 05:26:00,DEBUG,Error 778: Error occurred in module search..,module3,Diana
+2024-06-08 06:16:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-08 06:38:00,WARNING,User Bob performed action search.,module1,Bob
+2024-06-08 07:23:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-08 08:18:00,INFO,User Diana logged in.,module3,Diana
+2024-06-08 08:27:00,WARNING,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-08 08:47:00,WARNING,Error 620: Error occurred in module auth..,module3,Diana
+2024-06-08 09:20:00,INFO,User Diana performed action search.,module3,Diana
+2024-06-08 09:55:00,INFO,Warning: Resource Disk usage is high..,module1,Charlie
+2024-06-08 10:16:00,DEBUG,User Diana performed action logout.,module3,Diana
+2024-06-08 10:32:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-08 10:56:00,INFO,Warning: Resource Disk usage is high..,module3,Charlie
+2024-06-08 11:22:00,WARNING,User Charlie performed action update.,module1,Charlie
+2024-06-08 12:21:00,WARNING,User Charlie performed action login.,module3,Charlie
+2024-06-08 13:16:00,INFO,Warning: Resource Disk usage is high..,module2,Diana
+2024-06-08 13:57:00,WARNING,Warning: Resource CPU usage is high..,module1,Alice
+2024-06-08 14:04:00,ERROR,User Charlie performed action logout.,module2,Charlie
+2024-06-08 14:22:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-08 14:34:00,WARNING,User Alice performed action login.,module3,Alice
+2024-06-08 15:03:00,WARNING,User Bob performed action login.,module3,Bob
+2024-06-08 15:35:00,WARNING,User Charlie performed action update.,module3,Charlie
+2024-06-08 16:25:00,DEBUG,Error 404: Error occurred in module auth..,module3,Charlie
+2024-06-08 16:47:00,ERROR,Warning: Resource Disk usage is high..,module1,Charlie
+2024-06-08 17:30:00,INFO,User Charlie performed action logout.,module1,Charlie
+2024-06-08 17:34:00,DEBUG,Error 622: Error occurred in module search..,module3,Alice
+2024-06-08 17:39:00,WARNING,Error 914: Error occurred in module profile..,module1,Bob
+2024-06-08 18:06:00,ERROR,Warning: Resource Memory usage is high..,module1,Bob
+2024-06-08 18:34:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-08 18:41:00,INFO,User Diana performed action update.,module3,Diana
+2024-06-08 19:15:00,WARNING,User Diana performed action update.,module1,Diana
+2024-06-08 19:40:00,WARNING,Error 700: Error occurred in module profile..,module1,Diana
+2024-06-08 20:36:00,DEBUG,Error 520: Error occurred in module profile..,module2,Bob
+2024-06-08 21:17:00,ERROR,User Bob logged in.,module3,Bob
+2024-06-08 21:56:00,INFO,User Alice performed action login.,module3,Alice
+2024-06-08 22:16:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-08 23:16:00,ERROR,User Charlie performed action login.,module3,Charlie
+2024-06-08 23:56:00,WARNING,Warning: Resource CPU usage is high..,module2,Alice
+2024-06-09 00:34:00,INFO,User Bob performed action search.,module2,Bob
+2024-06-09 00:46:00,ERROR,User Charlie performed action update.,module2,Charlie
+2024-06-09 01:06:00,ERROR,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-09 01:14:00,DEBUG,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-09 01:31:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-09 01:48:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-09 02:30:00,WARNING,User Bob performed action login.,module1,Bob
+2024-06-09 02:32:00,DEBUG,User Alice performed action logout.,module2,Alice
+2024-06-09 02:48:00,DEBUG,User Charlie logged in.,module2,Charlie
+2024-06-09 03:10:00,INFO,User Bob logged in.,module1,Bob
+2024-06-09 03:59:00,WARNING,Warning: Resource Disk usage is high..,module2,Diana
+2024-06-09 04:27:00,INFO,User Alice logged in.,module1,Alice
+2024-06-09 04:57:00,WARNING,Error 919: Error occurred in module search..,module1,Bob
+2024-06-09 05:34:00,WARNING,Warning: Resource Memory usage is high..,module3,Charlie
+2024-06-09 06:04:00,INFO,Error 519: Error occurred in module profile..,module3,Diana
+2024-06-09 06:15:00,INFO,User Diana logged in.,module1,Diana
+2024-06-09 06:46:00,ERROR,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-09 07:09:00,ERROR,Warning: Resource CPU usage is high..,module3,Diana
+2024-06-09 07:23:00,WARNING,Error 641: Error occurred in module profile..,module1,Diana
+2024-06-09 07:33:00,ERROR,Error 797: Error occurred in module profile..,module1,Diana
+2024-06-09 07:56:00,INFO,Warning: Resource Memory usage is high..,module3,Diana
+2024-06-09 08:34:00,WARNING,User Diana performed action logout.,module3,Diana
+2024-06-09 08:55:00,WARNING,User Alice logged in.,module2,Alice
+2024-06-09 09:50:00,WARNING,Warning: Resource Memory usage is high..,module2,Bob
+2024-06-09 10:36:00,WARNING,User Bob logged in.,module1,Bob
+2024-06-09 11:10:00,DEBUG,Warning: Resource CPU usage is high..,module2,Diana
+2024-06-09 11:15:00,DEBUG,User Alice performed action logout.,module1,Alice
+2024-06-09 11:39:00,ERROR,Warning: Resource Memory usage is high..,module3,Charlie
+2024-06-09 12:32:00,INFO,User Bob logged in.,module3,Bob
+2024-06-09 12:36:00,WARNING,User Alice logged in.,module1,Alice
+2024-06-09 13:33:00,ERROR,Error 425: Error occurred in module profile..,module2,Charlie
+2024-06-09 14:30:00,INFO,Error 205: Error occurred in module auth..,module3,Diana
+2024-06-09 14:43:00,DEBUG,User Alice logged in.,module2,Alice
+2024-06-09 14:49:00,WARNING,User Charlie performed action logout.,module3,Charlie
+2024-06-09 14:55:00,DEBUG,Warning: Resource Memory usage is high..,module2,Diana
+2024-06-09 15:22:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-09 16:05:00,WARNING,Warning: Resource Disk usage is high..,module2,Bob
+2024-06-09 16:13:00,INFO,User Alice logged in.,module3,Alice
+2024-06-09 16:53:00,INFO,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-09 17:45:00,ERROR,User Alice logged in.,module2,Alice
+2024-06-09 18:18:00,ERROR,User Alice performed action logout.,module2,Alice
+2024-06-09 18:28:00,WARNING,User Charlie performed action login.,module1,Charlie
+2024-06-09 18:32:00,WARNING,Error 193: Error occurred in module auth..,module1,Bob
+2024-06-09 18:48:00,DEBUG,User Diana logged in.,module1,Diana
+2024-06-09 19:46:00,INFO,Warning: Resource Memory usage is high..,module2,Diana
+2024-06-09 20:33:00,INFO,User Diana logged in.,module2,Diana
+2024-06-09 21:07:00,DEBUG,User Alice performed action search.,module2,Alice
+2024-06-09 21:46:00,INFO,User Alice logged in.,module3,Alice
+2024-06-09 22:16:00,INFO,Error 550: Error occurred in module auth..,module3,Bob
+2024-06-09 23:07:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-09 23:35:00,WARNING,Warning: Resource Disk usage is high..,module2,Charlie
+2024-06-09 23:57:00,WARNING,User Charlie performed action update.,module2,Charlie
+2024-06-10 00:30:00,DEBUG,User Diana performed action login.,module2,Diana
+2024-06-10 01:15:00,INFO,Error 445: Error occurred in module search..,module3,Diana
+2024-06-10 01:23:00,INFO,User Bob performed action logout.,module2,Bob
+2024-06-10 01:55:00,ERROR,User Alice performed action update.,module3,Alice
+2024-06-10 02:47:00,DEBUG,Error 459: Error occurred in module search..,module3,Alice
+2024-06-10 03:29:00,INFO,Error 784: Error occurred in module profile..,module3,Diana
+2024-06-10 03:41:00,DEBUG,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-10 03:59:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-10 04:02:00,ERROR,User Bob performed action update.,module3,Bob
+2024-06-10 05:01:00,INFO,User Charlie performed action update.,module2,Charlie
+2024-06-10 05:42:00,ERROR,Warning: Resource Disk usage is high..,module2,Bob
+2024-06-10 06:30:00,DEBUG,User Charlie performed action update.,module1,Charlie
+2024-06-10 06:39:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-10 07:30:00,ERROR,Warning: Resource CPU usage is high..,module3,Charlie
+2024-06-10 08:18:00,INFO,User Diana logged in.,module2,Diana
+2024-06-10 08:25:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-10 09:22:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-10 09:51:00,ERROR,Error 258: Error occurred in module auth..,module2,Diana
+2024-06-10 10:29:00,WARNING,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-10 11:09:00,DEBUG,Error 468: Error occurred in module auth..,module1,Charlie
+2024-06-10 11:46:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-10 12:40:00,DEBUG,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-10 13:20:00,WARNING,User Diana logged in.,module1,Diana
+2024-06-10 13:58:00,ERROR,Error 337: Error occurred in module auth..,module2,Alice
+2024-06-10 14:33:00,WARNING,User Charlie logged in.,module1,Charlie
+2024-06-10 15:32:00,WARNING,User Bob performed action login.,module1,Bob
+2024-06-10 15:38:00,WARNING,User Charlie logged in.,module1,Charlie
+2024-06-10 16:30:00,WARNING,User Diana performed action login.,module1,Diana
+2024-06-10 17:12:00,WARNING,User Alice logged in.,module1,Alice
+2024-06-10 17:16:00,INFO,User Diana performed action login.,module3,Diana
+2024-06-10 17:53:00,ERROR,Error 290: Error occurred in module profile..,module3,Bob
+2024-06-10 18:34:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-10 19:07:00,INFO,User Bob logged in.,module1,Bob
+2024-06-10 19:38:00,WARNING,User Alice performed action update.,module2,Alice
+2024-06-10 20:07:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-10 20:57:00,INFO,User Diana performed action search.,module3,Diana
+2024-06-10 21:33:00,DEBUG,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-10 22:00:00,WARNING,Warning: Resource Memory usage is high..,module1,Alice
+2024-06-10 22:55:00,INFO,Warning: Resource Memory usage is high..,module3,Charlie
+2024-06-10 23:47:00,ERROR,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-11 00:28:00,DEBUG,User Bob logged in.,module2,Bob
+2024-06-11 01:21:00,INFO,User Bob performed action logout.,module3,Bob
+2024-06-11 01:23:00,INFO,User Diana performed action logout.,module3,Diana
+2024-06-11 01:37:00,ERROR,Warning: Resource Memory usage is high..,module2,Charlie
+2024-06-11 01:54:00,WARNING,User Diana logged in.,module1,Diana
+2024-06-11 02:22:00,DEBUG,User Bob logged in.,module2,Bob
+2024-06-11 02:57:00,ERROR,Warning: Resource Memory usage is high..,module2,Charlie
+2024-06-11 03:26:00,ERROR,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-11 03:40:00,INFO,User Bob performed action search.,module2,Bob
+2024-06-11 04:09:00,ERROR,User Diana performed action search.,module2,Diana
+2024-06-11 04:35:00,DEBUG,Warning: Resource Memory usage is high..,module1,Charlie
+2024-06-11 04:40:00,INFO,User Charlie logged in.,module2,Charlie
+2024-06-11 04:41:00,DEBUG,Error 743: Error occurred in module search..,module3,Alice
+2024-06-11 04:47:00,DEBUG,User Alice logged in.,module1,Alice
+2024-06-11 05:12:00,DEBUG,User Diana logged in.,module3,Diana
+2024-06-11 05:36:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-11 06:21:00,WARNING,User Diana logged in.,module1,Diana
+2024-06-11 06:29:00,ERROR,User Alice performed action search.,module1,Alice
+2024-06-11 07:01:00,WARNING,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-11 07:08:00,ERROR,User Alice performed action update.,module1,Alice
+2024-06-11 07:14:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-11 07:43:00,WARNING,User Diana performed action login.,module3,Diana
+2024-06-11 08:01:00,DEBUG,Warning: Resource Memory usage is high..,module3,Diana
+2024-06-11 08:10:00,ERROR,Error 805: Error occurred in module auth..,module3,Alice
+2024-06-11 09:07:00,ERROR,Error 959: Error occurred in module profile..,module1,Alice
+2024-06-11 09:25:00,DEBUG,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-11 09:57:00,INFO,Error 953: Error occurred in module auth..,module2,Charlie
+2024-06-11 10:37:00,INFO,Warning: Resource Disk usage is high..,module2,Charlie
+2024-06-11 11:35:00,DEBUG,Warning: Resource CPU usage is high..,module3,Bob
+2024-06-11 12:16:00,WARNING,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-11 12:18:00,ERROR,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-11 12:33:00,WARNING,User Bob logged in.,module2,Bob
+2024-06-11 12:40:00,INFO,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-11 13:26:00,ERROR,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-11 14:06:00,DEBUG,Error 968: Error occurred in module search..,module1,Charlie
+2024-06-11 14:37:00,INFO,User Bob logged in.,module2,Bob
+2024-06-11 15:13:00,ERROR,Error 839: Error occurred in module auth..,module3,Bob
+2024-06-11 16:01:00,DEBUG,User Charlie logged in.,module2,Charlie
+2024-06-11 16:09:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-11 16:53:00,ERROR,Error 282: Error occurred in module auth..,module3,Bob
+2024-06-11 17:10:00,INFO,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-11 17:42:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-11 17:48:00,DEBUG,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-11 18:30:00,INFO,User Charlie logged in.,module2,Charlie
+2024-06-11 19:28:00,ERROR,User Bob performed action login.,module2,Bob
+2024-06-11 19:45:00,DEBUG,Error 897: Error occurred in module auth..,module1,Diana
+2024-06-11 20:11:00,ERROR,Error 249: Error occurred in module profile..,module3,Charlie
+2024-06-11 20:19:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-11 21:06:00,ERROR,Warning: Resource CPU usage is high..,module2,Alice
+2024-06-11 21:25:00,INFO,Error 208: Error occurred in module profile..,module2,Bob
+2024-06-11 21:30:00,DEBUG,User Alice logged in.,module1,Alice
+2024-06-11 21:44:00,WARNING,User Alice performed action search.,module1,Alice
+2024-06-11 22:14:00,ERROR,User Charlie performed action search.,module2,Charlie
+2024-06-11 22:51:00,DEBUG,User Alice performed action search.,module3,Alice
+2024-06-11 23:29:00,ERROR,User Bob logged in.,module3,Bob
+2024-06-12 00:16:00,ERROR,User Diana performed action login.,module3,Diana
+2024-06-12 00:37:00,ERROR,User Charlie performed action login.,module3,Charlie
+2024-06-12 01:34:00,INFO,User Diana logged in.,module1,Diana
+2024-06-12 02:01:00,WARNING,User Charlie logged in.,module3,Charlie
+2024-06-12 02:35:00,ERROR,Error 534: Error occurred in module search..,module1,Diana
+2024-06-12 03:19:00,WARNING,Error 112: Error occurred in module auth..,module1,Bob
+2024-06-12 04:10:00,DEBUG,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-12 04:26:00,WARNING,Warning: Resource CPU usage is high..,module2,Charlie
+2024-06-12 05:02:00,DEBUG,User Alice logged in.,module2,Alice
+2024-06-12 05:55:00,WARNING,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-12 06:26:00,INFO,User Bob logged in.,module3,Bob
+2024-06-12 07:19:00,INFO,Warning: Resource CPU usage is high..,module3,Diana
+2024-06-12 08:10:00,INFO,User Alice logged in.,module3,Alice
+2024-06-12 08:52:00,WARNING,Error 921: Error occurred in module auth..,module1,Charlie
+2024-06-12 08:59:00,DEBUG,User Charlie performed action login.,module1,Charlie
+2024-06-12 09:21:00,DEBUG,Error 355: Error occurred in module auth..,module2,Charlie
+2024-06-12 09:57:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-12 10:29:00,INFO,Error 841: Error occurred in module auth..,module1,Diana
+2024-06-12 11:18:00,WARNING,Warning: Resource Memory usage is high..,module2,Alice
+2024-06-12 11:44:00,INFO,Error 507: Error occurred in module profile..,module3,Alice
+2024-06-12 12:36:00,ERROR,Error 128: Error occurred in module profile..,module3,Bob
+2024-06-12 12:50:00,WARNING,User Bob performed action search.,module2,Bob
+2024-06-12 13:26:00,ERROR,User Bob performed action logout.,module2,Bob
+2024-06-12 13:44:00,WARNING,Warning: Resource CPU usage is high..,module3,Charlie
+2024-06-12 14:25:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-12 14:27:00,ERROR,User Alice performed action logout.,module1,Alice
+2024-06-12 14:45:00,DEBUG,User Alice performed action search.,module3,Alice
+2024-06-12 14:53:00,DEBUG,User Diana performed action login.,module1,Diana
+2024-06-12 15:53:00,DEBUG,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-12 16:08:00,DEBUG,Warning: Resource CPU usage is high..,module2,Charlie
+2024-06-12 16:55:00,WARNING,Error 541: Error occurred in module search..,module3,Bob
+2024-06-12 17:45:00,DEBUG,User Bob performed action logout.,module2,Bob
+2024-06-12 18:18:00,ERROR,User Alice performed action logout.,module3,Alice
+2024-06-12 19:14:00,WARNING,Error 808: Error occurred in module search..,module1,Charlie
+2024-06-12 19:23:00,WARNING,Error 255: Error occurred in module search..,module3,Charlie
+2024-06-12 19:46:00,DEBUG,User Alice logged in.,module1,Alice
+2024-06-12 19:55:00,WARNING,Warning: Resource Disk usage is high..,module2,Bob
+2024-06-12 20:48:00,ERROR,Warning: Resource CPU usage is high..,module2,Diana
+2024-06-12 20:58:00,ERROR,User Diana performed action logout.,module3,Diana
+2024-06-12 21:46:00,INFO,Error 800: Error occurred in module search..,module3,Alice
+2024-06-12 22:24:00,INFO,User Alice logged in.,module2,Alice
+2024-06-12 23:04:00,INFO,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-12 23:40:00,INFO,User Diana logged in.,module1,Diana
+2024-06-12 23:50:00,DEBUG,Error 412: Error occurred in module auth..,module3,Alice
+2024-06-13 00:38:00,DEBUG,User Charlie performed action search.,module1,Charlie
+2024-06-13 01:31:00,WARNING,Error 184: Error occurred in module profile..,module1,Charlie
+2024-06-13 01:51:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-13 02:00:00,WARNING,Error 628: Error occurred in module auth..,module1,Diana
+2024-06-13 02:41:00,INFO,Error 765: Error occurred in module auth..,module3,Alice
+2024-06-13 03:33:00,WARNING,Error 166: Error occurred in module search..,module1,Bob
+2024-06-13 04:01:00,INFO,Error 779: Error occurred in module profile..,module3,Diana
+2024-06-13 04:04:00,ERROR,Error 705: Error occurred in module search..,module3,Bob
+2024-06-13 04:46:00,WARNING,Warning: Resource Memory usage is high..,module1,Bob
+2024-06-13 05:23:00,DEBUG,User Bob performed action logout.,module2,Bob
+2024-06-13 05:34:00,ERROR,User Alice performed action login.,module2,Alice
+2024-06-13 06:07:00,DEBUG,Error 297: Error occurred in module profile..,module2,Alice
+2024-06-13 06:58:00,ERROR,User Charlie performed action logout.,module1,Charlie
+2024-06-13 07:36:00,INFO,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-13 07:38:00,DEBUG,User Alice logged in.,module2,Alice
+2024-06-13 07:45:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-13 08:42:00,ERROR,Warning: Resource Memory usage is high..,module2,Charlie
+2024-06-13 08:46:00,DEBUG,User Charlie performed action update.,module1,Charlie
+2024-06-13 09:04:00,INFO,User Diana performed action search.,module2,Diana
+2024-06-13 09:57:00,ERROR,Error 923: Error occurred in module profile..,module1,Charlie
+2024-06-13 10:41:00,WARNING,Error 399: Error occurred in module auth..,module3,Charlie
+2024-06-13 11:41:00,WARNING,User Diana logged in.,module1,Diana
+2024-06-13 12:19:00,ERROR,User Charlie performed action search.,module3,Charlie
+2024-06-13 13:05:00,ERROR,User Alice logged in.,module3,Alice
+2024-06-13 14:03:00,ERROR,User Bob logged in.,module2,Bob
+2024-06-13 14:18:00,WARNING,User Diana performed action login.,module1,Diana
+2024-06-13 15:18:00,WARNING,User Alice logged in.,module3,Alice
+2024-06-13 15:25:00,WARNING,User Charlie logged in.,module3,Charlie
+2024-06-13 15:57:00,INFO,User Alice performed action logout.,module1,Alice
+2024-06-13 16:55:00,WARNING,User Bob performed action search.,module1,Bob
+2024-06-13 17:20:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-13 17:44:00,WARNING,User Bob performed action login.,module1,Bob
+2024-06-13 18:12:00,DEBUG,Error 617: Error occurred in module auth..,module1,Charlie
+2024-06-13 18:22:00,ERROR,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-13 19:09:00,ERROR,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-13 19:34:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-13 20:12:00,INFO,User Alice logged in.,module1,Alice
+2024-06-13 20:16:00,DEBUG,Error 821: Error occurred in module profile..,module3,Diana
+2024-06-13 21:06:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-13 21:26:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-13 21:59:00,WARNING,User Bob performed action update.,module1,Bob
+2024-06-13 22:17:00,ERROR,User Charlie logged in.,module3,Charlie
+2024-06-13 22:30:00,DEBUG,Error 745: Error occurred in module auth..,module1,Alice
+2024-06-13 22:36:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-13 22:42:00,ERROR,Error 865: Error occurred in module profile..,module1,Alice
+2024-06-13 23:12:00,INFO,User Alice performed action login.,module2,Alice
+2024-06-13 23:39:00,ERROR,Error 306: Error occurred in module profile..,module2,Bob
+2024-06-14 00:34:00,ERROR,User Charlie performed action search.,module2,Charlie
+2024-06-14 01:21:00,WARNING,User Bob performed action search.,module1,Bob
+2024-06-14 01:44:00,WARNING,Warning: Resource Disk usage is high..,module2,Alice
+2024-06-14 02:17:00,ERROR,Error 838: Error occurred in module profile..,module3,Charlie
+2024-06-14 02:30:00,INFO,User Diana performed action login.,module3,Diana
+2024-06-14 02:34:00,INFO,Error 877: Error occurred in module profile..,module2,Alice
+2024-06-14 02:51:00,ERROR,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-14 03:30:00,INFO,User Charlie logged in.,module3,Charlie
+2024-06-14 03:31:00,WARNING,User Charlie performed action login.,module1,Charlie
+2024-06-14 04:03:00,ERROR,Error 148: Error occurred in module auth..,module1,Bob
+2024-06-14 04:47:00,INFO,Warning: Resource Memory usage is high..,module2,Charlie
+2024-06-14 05:38:00,WARNING,User Bob performed action login.,module1,Bob
+2024-06-14 05:55:00,INFO,Error 653: Error occurred in module search..,module2,Alice
+2024-06-14 06:08:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-14 06:56:00,WARNING,User Bob performed action update.,module3,Bob
+2024-06-14 07:24:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-14 08:13:00,DEBUG,Error 935: Error occurred in module profile..,module1,Diana
+2024-06-14 09:05:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-14 09:57:00,DEBUG,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-14 10:14:00,ERROR,Warning: Resource CPU usage is high..,module2,Bob
+2024-06-14 11:06:00,INFO,User Alice logged in.,module1,Alice
+2024-06-14 11:26:00,ERROR,Error 863: Error occurred in module search..,module3,Diana
+2024-06-14 11:43:00,ERROR,User Bob logged in.,module2,Bob
+2024-06-14 12:32:00,ERROR,Warning: Resource Disk usage is high..,module3,Diana
+2024-06-14 13:21:00,ERROR,Error 847: Error occurred in module auth..,module2,Bob
+2024-06-14 14:01:00,WARNING,User Charlie logged in.,module3,Charlie
+2024-06-14 14:42:00,ERROR,Error 707: Error occurred in module auth..,module2,Bob
+2024-06-14 15:08:00,DEBUG,Error 509: Error occurred in module search..,module1,Charlie
+2024-06-14 15:24:00,ERROR,User Charlie performed action login.,module1,Charlie
+2024-06-14 15:40:00,ERROR,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-14 16:07:00,DEBUG,Warning: Resource Disk usage is high..,module2,Diana
+2024-06-14 16:27:00,INFO,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-14 17:23:00,INFO,User Bob performed action logout.,module3,Bob
+2024-06-14 18:03:00,ERROR,Error 887: Error occurred in module profile..,module3,Charlie
+2024-06-14 18:56:00,WARNING,Error 605: Error occurred in module profile..,module1,Alice
+2024-06-14 19:22:00,INFO,User Charlie logged in.,module2,Charlie
+2024-06-14 19:37:00,ERROR,User Alice performed action search.,module2,Alice
+2024-06-14 20:32:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-14 20:46:00,WARNING,User Charlie logged in.,module3,Charlie
+2024-06-14 21:24:00,DEBUG,Warning: Resource CPU usage is high..,module3,Bob
+2024-06-14 21:26:00,INFO,User Bob performed action update.,module3,Bob
+2024-06-14 22:23:00,WARNING,Warning: Resource Memory usage is high..,module1,Bob
+2024-06-14 23:14:00,WARNING,User Charlie performed action login.,module2,Charlie
+2024-06-15 00:03:00,ERROR,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-15 00:07:00,INFO,Error 155: Error occurred in module search..,module2,Diana
+2024-06-15 00:14:00,ERROR,Error 368: Error occurred in module auth..,module3,Bob
+2024-06-15 01:00:00,DEBUG,User Bob logged in.,module1,Bob
+2024-06-15 01:49:00,DEBUG,Warning: Resource CPU usage is high..,module1,Bob
+2024-06-15 01:50:00,WARNING,User Diana logged in.,module3,Diana
+2024-06-15 02:36:00,INFO,Warning: Resource Memory usage is high..,module3,Diana
+2024-06-15 03:03:00,INFO,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-15 03:59:00,DEBUG,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-15 04:50:00,WARNING,User Diana performed action update.,module3,Diana
+2024-06-15 05:43:00,DEBUG,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-15 05:50:00,ERROR,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-15 06:00:00,DEBUG,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-15 06:19:00,INFO,Warning: Resource Memory usage is high..,module1,Bob
+2024-06-15 06:59:00,ERROR,User Bob performed action logout.,module3,Bob
+2024-06-15 07:00:00,WARNING,Error 357: Error occurred in module search..,module2,Alice
+2024-06-15 07:22:00,ERROR,Error 700: Error occurred in module profile..,module3,Diana
+2024-06-15 07:36:00,INFO,Error 883: Error occurred in module profile..,module1,Charlie
+2024-06-15 08:26:00,DEBUG,Error 319: Error occurred in module search..,module2,Bob
+2024-06-15 08:48:00,DEBUG,User Alice logged in.,module1,Alice
+2024-06-15 09:48:00,ERROR,Error 542: Error occurred in module search..,module2,Diana
+2024-06-15 10:37:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-15 11:16:00,INFO,Warning: Resource CPU usage is high..,module3,Diana
+2024-06-15 12:14:00,DEBUG,User Bob logged in.,module1,Bob
+2024-06-15 12:32:00,DEBUG,Warning: Resource CPU usage is high..,module1,Bob
+2024-06-15 12:56:00,WARNING,User Alice performed action logout.,module3,Alice
+2024-06-15 13:36:00,DEBUG,User Diana logged in.,module1,Diana
+2024-06-15 14:19:00,ERROR,Error 156: Error occurred in module profile..,module1,Charlie
+2024-06-15 14:46:00,ERROR,User Charlie performed action search.,module2,Charlie
+2024-06-15 14:50:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-15 15:06:00,ERROR,User Diana performed action search.,module2,Diana
+2024-06-15 15:17:00,DEBUG,User Bob performed action search.,module2,Bob
+2024-06-15 15:54:00,WARNING,Error 733: Error occurred in module auth..,module3,Alice
+2024-06-15 15:57:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-15 16:34:00,WARNING,Error 749: Error occurred in module search..,module2,Charlie
+2024-06-15 16:42:00,INFO,User Bob performed action logout.,module1,Bob
+2024-06-15 17:38:00,WARNING,User Bob logged in.,module1,Bob
+2024-06-15 18:28:00,INFO,User Charlie performed action logout.,module1,Charlie
+2024-06-15 18:48:00,DEBUG,User Bob performed action logout.,module2,Bob
+2024-06-15 19:16:00,INFO,Error 587: Error occurred in module search..,module3,Alice
+2024-06-15 19:56:00,DEBUG,Error 182: Error occurred in module search..,module2,Diana
+2024-06-15 20:43:00,DEBUG,User Bob performed action login.,module1,Bob
+2024-06-15 21:24:00,ERROR,User Diana performed action search.,module1,Diana
+2024-06-15 21:41:00,WARNING,User Bob performed action update.,module3,Bob
+2024-06-15 22:29:00,ERROR,User Alice logged in.,module3,Alice
+2024-06-15 23:02:00,INFO,User Alice logged in.,module1,Alice
+2024-06-15 23:03:00,ERROR,Error 864: Error occurred in module profile..,module3,Alice
+2024-06-15 23:23:00,INFO,User Alice performed action login.,module3,Alice
+2024-06-15 23:42:00,WARNING,User Diana logged in.,module1,Diana
+2024-06-16 00:03:00,DEBUG,User Diana logged in.,module2,Diana
+2024-06-16 00:43:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-16 01:00:00,DEBUG,User Alice logged in.,module1,Alice
+2024-06-16 01:18:00,INFO,Error 808: Error occurred in module search..,module2,Diana
+2024-06-16 01:59:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-16 02:56:00,ERROR,Error 455: Error occurred in module auth..,module3,Diana
+2024-06-16 03:22:00,WARNING,User Bob logged in.,module1,Bob
+2024-06-16 03:57:00,ERROR,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-16 04:45:00,DEBUG,User Alice logged in.,module2,Alice
+2024-06-16 05:37:00,WARNING,User Charlie performed action logout.,module1,Charlie
+2024-06-16 05:59:00,ERROR,User Bob logged in.,module3,Bob
+2024-06-16 06:01:00,WARNING,User Bob logged in.,module1,Bob
+2024-06-16 06:48:00,ERROR,User Alice logged in.,module3,Alice
+2024-06-16 06:49:00,WARNING,Error 102: Error occurred in module auth..,module2,Diana
+2024-06-16 07:16:00,ERROR,Error 185: Error occurred in module search..,module3,Charlie
+2024-06-16 08:07:00,DEBUG,User Bob performed action logout.,module3,Bob
+2024-06-16 08:54:00,ERROR,Error 467: Error occurred in module profile..,module3,Diana
+2024-06-16 09:26:00,INFO,Warning: Resource Disk usage is high..,module3,Charlie
+2024-06-16 09:57:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-16 10:31:00,ERROR,User Bob performed action login.,module3,Bob
+2024-06-16 11:11:00,DEBUG,User Alice logged in.,module1,Alice
+2024-06-16 11:49:00,DEBUG,User Diana logged in.,module3,Diana
+2024-06-16 12:37:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-16 13:19:00,DEBUG,User Alice performed action login.,module1,Alice
+2024-06-16 13:54:00,ERROR,User Diana performed action search.,module3,Diana
+2024-06-16 14:48:00,DEBUG,User Bob performed action login.,module3,Bob
+2024-06-16 15:42:00,INFO,User Charlie performed action logout.,module1,Charlie
+2024-06-16 16:27:00,ERROR,User Charlie performed action search.,module1,Charlie
+2024-06-16 17:11:00,DEBUG,Warning: Resource Disk usage is high..,module1,Alice
+2024-06-16 17:40:00,WARNING,User Alice logged in.,module3,Alice
+2024-06-16 18:28:00,DEBUG,Error 186: Error occurred in module profile..,module3,Diana
+2024-06-16 19:05:00,ERROR,User Charlie performed action logout.,module2,Charlie
+2024-06-16 19:18:00,DEBUG,Error 667: Error occurred in module profile..,module1,Bob
+2024-06-16 19:22:00,ERROR,User Charlie logged in.,module1,Charlie
+2024-06-16 20:08:00,INFO,User Bob logged in.,module2,Bob
+2024-06-16 21:00:00,INFO,User Charlie logged in.,module3,Charlie
+2024-06-16 21:58:00,WARNING,User Bob performed action search.,module1,Bob
+2024-06-16 22:56:00,INFO,User Charlie performed action search.,module1,Charlie
+2024-06-16 23:32:00,ERROR,Error 615: Error occurred in module search..,module2,Bob
+2024-06-17 00:05:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-17 00:46:00,INFO,User Diana logged in.,module2,Diana
+2024-06-17 01:14:00,DEBUG,Error 622: Error occurred in module auth..,module2,Alice
+2024-06-17 01:53:00,ERROR,Error 981: Error occurred in module auth..,module2,Diana
+2024-06-17 02:05:00,ERROR,Error 757: Error occurred in module search..,module3,Bob
+2024-06-17 02:23:00,DEBUG,User Alice performed action search.,module2,Alice
+2024-06-17 03:22:00,ERROR,User Bob performed action login.,module2,Bob
+2024-06-17 03:25:00,DEBUG,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-17 03:51:00,ERROR,Warning: Resource CPU usage is high..,module2,Diana
+2024-06-17 04:19:00,WARNING,Error 850: Error occurred in module auth..,module1,Diana
+2024-06-17 05:19:00,INFO,Warning: Resource CPU usage is high..,module3,Diana
+2024-06-17 05:47:00,WARNING,User Charlie performed action update.,module1,Charlie
+2024-06-17 06:28:00,INFO,User Alice performed action search.,module3,Alice
+2024-06-17 06:46:00,WARNING,Warning: Resource Memory usage is high..,module2,Alice
+2024-06-17 07:15:00,DEBUG,Warning: Resource Memory usage is high..,module3,Charlie
+2024-06-17 07:58:00,INFO,Warning: Resource Disk usage is high..,module1,Charlie
+2024-06-17 08:37:00,ERROR,User Charlie performed action logout.,module2,Charlie
+2024-06-17 09:11:00,DEBUG,Error 800: Error occurred in module auth..,module2,Bob
+2024-06-17 09:14:00,ERROR,User Diana performed action login.,module1,Diana
+2024-06-17 09:20:00,INFO,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-17 10:15:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-17 11:11:00,INFO,Error 626: Error occurred in module search..,module1,Diana
+2024-06-17 11:37:00,ERROR,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-17 12:12:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-17 12:24:00,INFO,Error 427: Error occurred in module profile..,module1,Charlie
+2024-06-17 12:32:00,WARNING,User Diana logged in.,module3,Diana
+2024-06-17 12:57:00,DEBUG,Warning: Resource Disk usage is high..,module2,Diana
+2024-06-17 13:43:00,WARNING,Error 368: Error occurred in module profile..,module2,Alice
+2024-06-17 14:10:00,WARNING,Error 782: Error occurred in module profile..,module1,Alice
+2024-06-17 14:32:00,ERROR,Error 229: Error occurred in module search..,module3,Alice
+2024-06-17 15:00:00,WARNING,User Alice logged in.,module3,Alice
+2024-06-17 15:59:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-17 16:24:00,INFO,Error 372: Error occurred in module search..,module1,Charlie
+2024-06-17 16:42:00,ERROR,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-17 17:18:00,WARNING,User Charlie logged in.,module1,Charlie
+2024-06-17 17:49:00,ERROR,User Bob logged in.,module3,Bob
+2024-06-17 17:52:00,ERROR,Warning: Resource CPU usage is high..,module2,Diana
+2024-06-17 18:44:00,DEBUG,Error 104: Error occurred in module search..,module3,Bob
+2024-06-17 19:12:00,ERROR,User Charlie performed action login.,module1,Charlie
+2024-06-17 19:17:00,ERROR,Error 728: Error occurred in module auth..,module2,Bob
+2024-06-17 20:10:00,INFO,Warning: Resource Memory usage is high..,module2,Diana
+2024-06-17 20:28:00,DEBUG,User Bob logged in.,module1,Bob
+2024-06-17 20:57:00,ERROR,Error 261: Error occurred in module profile..,module2,Diana
+2024-06-17 21:20:00,ERROR,User Bob performed action login.,module3,Bob
+2024-06-17 21:54:00,INFO,User Charlie performed action search.,module2,Charlie
+2024-06-17 21:55:00,ERROR,Warning: Resource CPU usage is high..,module3,Diana
+2024-06-17 22:35:00,ERROR,User Bob performed action logout.,module2,Bob
+2024-06-17 23:16:00,INFO,User Diana performed action login.,module3,Diana
+2024-06-18 00:14:00,INFO,Error 328: Error occurred in module search..,module1,Charlie
+2024-06-18 00:29:00,DEBUG,User Charlie performed action login.,module1,Charlie
+2024-06-18 00:52:00,WARNING,Error 868: Error occurred in module profile..,module2,Bob
+2024-06-18 01:04:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-18 01:21:00,ERROR,User Diana logged in.,module1,Diana
+2024-06-18 02:10:00,ERROR,Error 252: Error occurred in module auth..,module2,Bob
+2024-06-18 02:33:00,INFO,Error 987: Error occurred in module search..,module2,Bob
+2024-06-18 03:02:00,INFO,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-18 03:53:00,ERROR,User Bob performed action update.,module3,Bob
+2024-06-18 04:29:00,INFO,Warning: Resource Memory usage is high..,module1,Alice
+2024-06-18 05:22:00,WARNING,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-18 05:56:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-18 06:11:00,DEBUG,Error 614: Error occurred in module auth..,module2,Alice
+2024-06-18 06:35:00,DEBUG,User Alice performed action search.,module2,Alice
+2024-06-18 06:44:00,WARNING,User Charlie performed action login.,module2,Charlie
+2024-06-18 07:06:00,INFO,Error 265: Error occurred in module profile..,module1,Charlie
+2024-06-18 07:56:00,INFO,Error 401: Error occurred in module profile..,module2,Alice
+2024-06-18 08:46:00,INFO,User Bob performed action search.,module1,Bob
+2024-06-18 08:49:00,INFO,User Alice logged in.,module3,Alice
+2024-06-18 09:08:00,WARNING,User Alice performed action login.,module2,Alice
+2024-06-18 09:20:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-18 10:15:00,INFO,Error 454: Error occurred in module search..,module1,Diana
+2024-06-18 10:25:00,DEBUG,User Charlie performed action search.,module1,Charlie
+2024-06-18 11:05:00,INFO,Error 631: Error occurred in module auth..,module2,Alice
+2024-06-18 11:26:00,INFO,Error 323: Error occurred in module auth..,module3,Bob
+2024-06-18 12:14:00,WARNING,User Alice performed action update.,module1,Alice
+2024-06-18 12:29:00,ERROR,User Bob logged in.,module2,Bob
+2024-06-18 12:45:00,ERROR,User Diana performed action search.,module1,Diana
+2024-06-18 13:03:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-18 13:48:00,DEBUG,User Diana performed action update.,module3,Diana
+2024-06-18 13:51:00,DEBUG,Error 394: Error occurred in module auth..,module2,Charlie
+2024-06-18 14:41:00,DEBUG,User Charlie performed action logout.,module3,Charlie
+2024-06-18 15:24:00,DEBUG,User Charlie performed action search.,module1,Charlie
+2024-06-18 15:44:00,INFO,Error 112: Error occurred in module auth..,module2,Alice
+2024-06-18 15:59:00,DEBUG,Warning: Resource Disk usage is high..,module2,Bob
+2024-06-18 16:48:00,INFO,Warning: Resource Disk usage is high..,module1,Charlie
+2024-06-18 17:48:00,WARNING,User Diana performed action update.,module1,Diana
+2024-06-18 17:57:00,ERROR,Error 109: Error occurred in module search..,module1,Diana
+2024-06-18 18:51:00,ERROR,Error 786: Error occurred in module auth..,module2,Diana
+2024-06-18 19:42:00,INFO,Error 444: Error occurred in module search..,module1,Diana
+2024-06-18 20:26:00,DEBUG,User Diana logged in.,module3,Diana
+2024-06-18 21:02:00,ERROR,Warning: Resource CPU usage is high..,module1,Alice
+2024-06-18 21:32:00,ERROR,Error 298: Error occurred in module search..,module2,Bob
+2024-06-18 22:28:00,ERROR,User Charlie performed action logout.,module1,Charlie
+2024-06-18 23:15:00,DEBUG,User Alice logged in.,module2,Alice
+2024-06-18 23:42:00,ERROR,User Charlie performed action login.,module1,Charlie
+2024-06-19 00:28:00,DEBUG,User Bob performed action logout.,module3,Bob
+2024-06-19 00:44:00,WARNING,User Diana performed action login.,module1,Diana
+2024-06-19 01:41:00,ERROR,Error 569: Error occurred in module profile..,module3,Alice
+2024-06-19 02:10:00,WARNING,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-19 02:11:00,ERROR,Error 884: Error occurred in module search..,module1,Charlie
+2024-06-19 02:48:00,DEBUG,User Diana logged in.,module3,Diana
+2024-06-19 03:28:00,DEBUG,User Diana logged in.,module3,Diana
+2024-06-19 03:30:00,INFO,Error 680: Error occurred in module profile..,module1,Bob
+2024-06-19 04:01:00,WARNING,User Alice logged in.,module2,Alice
+2024-06-19 04:16:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-19 04:56:00,DEBUG,Error 164: Error occurred in module auth..,module2,Alice
+2024-06-19 05:44:00,ERROR,User Alice performed action logout.,module1,Alice
+2024-06-19 06:39:00,WARNING,User Alice performed action logout.,module3,Alice
+2024-06-19 07:37:00,DEBUG,Warning: Resource CPU usage is high..,module3,Bob
+2024-06-19 07:38:00,DEBUG,Warning: Resource Memory usage is high..,module1,Charlie
+2024-06-19 07:50:00,WARNING,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-19 08:22:00,INFO,User Diana performed action search.,module3,Diana
+2024-06-19 08:59:00,INFO,User Diana performed action search.,module2,Diana
+2024-06-19 09:40:00,ERROR,Error 287: Error occurred in module profile..,module3,Diana
+2024-06-19 09:52:00,ERROR,User Alice performed action login.,module1,Alice
+2024-06-19 10:09:00,ERROR,Error 421: Error occurred in module auth..,module1,Bob
+2024-06-19 10:11:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-19 11:11:00,INFO,Error 141: Error occurred in module search..,module1,Bob
+2024-06-19 12:07:00,DEBUG,Error 337: Error occurred in module search..,module2,Bob
+2024-06-19 12:48:00,WARNING,Warning: Resource Memory usage is high..,module2,Alice
+2024-06-19 13:32:00,DEBUG,User Diana logged in.,module1,Diana
+2024-06-19 13:36:00,WARNING,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-19 14:27:00,ERROR,User Charlie logged in.,module2,Charlie
+2024-06-19 14:46:00,ERROR,Error 413: Error occurred in module auth..,module3,Alice
+2024-06-19 14:49:00,INFO,User Charlie performed action update.,module3,Charlie
+2024-06-19 15:38:00,DEBUG,Warning: Resource Memory usage is high..,module3,Bob
+2024-06-19 16:19:00,ERROR,User Alice performed action search.,module1,Alice
+2024-06-19 16:28:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-19 17:14:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-19 17:36:00,WARNING,Error 544: Error occurred in module profile..,module1,Bob
+2024-06-19 18:06:00,INFO,User Bob performed action login.,module1,Bob
+2024-06-19 19:00:00,INFO,Warning: Resource Disk usage is high..,module3,Charlie
+2024-06-19 19:53:00,INFO,Error 399: Error occurred in module auth..,module2,Alice
+2024-06-19 20:34:00,INFO,Warning: Resource Disk usage is high..,module1,Alice
+2024-06-19 21:33:00,ERROR,User Diana logged in.,module3,Diana
+2024-06-19 22:33:00,INFO,User Alice logged in.,module1,Alice
+2024-06-19 22:47:00,INFO,User Diana logged in.,module3,Diana
+2024-06-19 23:28:00,WARNING,User Charlie performed action update.,module1,Charlie
+2024-06-19 23:57:00,WARNING,Error 756: Error occurred in module profile..,module3,Alice
+2024-06-20 00:07:00,ERROR,Error 853: Error occurred in module profile..,module1,Diana
+2024-06-20 00:59:00,DEBUG,User Charlie performed action search.,module2,Charlie
+2024-06-20 01:57:00,ERROR,Warning: Resource CPU usage is high..,module3,Bob
+2024-06-20 02:51:00,WARNING,User Bob logged in.,module2,Bob
+2024-06-20 03:30:00,DEBUG,Warning: Resource Disk usage is high..,module3,Charlie
+2024-06-20 03:50:00,WARNING,User Charlie performed action logout.,module2,Charlie
+2024-06-20 04:35:00,DEBUG,User Bob performed action update.,module2,Bob
+2024-06-20 04:58:00,WARNING,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-20 05:11:00,WARNING,User Diana logged in.,module2,Diana
+2024-06-20 06:02:00,WARNING,User Diana performed action update.,module2,Diana
+2024-06-20 06:08:00,INFO,User Alice performed action logout.,module3,Alice
+2024-06-20 06:12:00,INFO,Warning: Resource CPU usage is high..,module3,Diana
+2024-06-20 06:13:00,WARNING,User Charlie logged in.,module2,Charlie
+2024-06-20 06:28:00,INFO,User Alice performed action search.,module1,Alice
+2024-06-20 07:15:00,ERROR,Error 867: Error occurred in module profile..,module3,Bob
+2024-06-20 07:30:00,WARNING,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-20 08:17:00,INFO,User Diana performed action logout.,module3,Diana
+2024-06-20 08:36:00,ERROR,User Diana performed action update.,module2,Diana
+2024-06-20 08:55:00,INFO,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-20 09:11:00,WARNING,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-20 09:26:00,WARNING,User Bob logged in.,module3,Bob
+2024-06-20 09:51:00,WARNING,Error 613: Error occurred in module auth..,module1,Alice
+2024-06-20 10:02:00,DEBUG,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-20 10:15:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-20 10:54:00,INFO,Error 818: Error occurred in module profile..,module3,Diana
+2024-06-20 11:41:00,ERROR,User Charlie performed action search.,module1,Charlie
+2024-06-20 12:22:00,WARNING,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-20 12:58:00,ERROR,User Diana logged in.,module2,Diana
+2024-06-20 13:46:00,WARNING,User Bob performed action login.,module1,Bob
+2024-06-20 13:55:00,WARNING,User Bob performed action search.,module3,Bob
+2024-06-20 14:37:00,DEBUG,User Charlie performed action search.,module2,Charlie
+2024-06-20 15:09:00,ERROR,Error 396: Error occurred in module auth..,module1,Alice
+2024-06-20 15:51:00,DEBUG,User Alice logged in.,module3,Alice
+2024-06-20 16:28:00,WARNING,User Charlie logged in.,module1,Charlie
+2024-06-20 16:58:00,DEBUG,User Diana performed action logout.,module3,Diana
+2024-06-20 17:07:00,ERROR,User Bob logged in.,module3,Bob
+2024-06-20 17:11:00,INFO,Warning: Resource CPU usage is high..,module3,Alice
+2024-06-20 17:23:00,INFO,Warning: Resource CPU usage is high..,module1,Diana
+2024-06-20 17:28:00,ERROR,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-20 18:28:00,ERROR,User Charlie logged in.,module1,Charlie
+2024-06-20 18:55:00,WARNING,Error 930: Error occurred in module auth..,module3,Bob
+2024-06-20 19:33:00,DEBUG,User Bob performed action logout.,module1,Bob
+2024-06-20 20:30:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-20 21:06:00,ERROR,Error 774: Error occurred in module profile..,module2,Bob
+2024-06-20 21:24:00,ERROR,User Alice logged in.,module1,Alice
+2024-06-20 21:54:00,DEBUG,Warning: Resource Memory usage is high..,module3,Alice
+2024-06-20 21:55:00,WARNING,Error 297: Error occurred in module auth..,module3,Bob
+2024-06-20 21:58:00,WARNING,Error 747: Error occurred in module profile..,module2,Bob
+2024-06-20 22:52:00,WARNING,Error 991: Error occurred in module profile..,module3,Bob
+2024-06-20 23:32:00,DEBUG,Warning: Resource Disk usage is high..,module1,Alice
+2024-06-21 00:01:00,DEBUG,User Alice performed action logout.,module1,Alice
+2024-06-21 01:01:00,ERROR,User Bob performed action logout.,module2,Bob
+2024-06-21 01:46:00,ERROR,User Alice logged in.,module3,Alice
+2024-06-21 01:54:00,INFO,User Diana performed action login.,module3,Diana
+2024-06-21 02:28:00,ERROR,User Diana performed action update.,module2,Diana
+2024-06-21 03:23:00,WARNING,Warning: Resource Memory usage is high..,module2,Bob
+2024-06-21 04:15:00,INFO,User Alice performed action update.,module2,Alice
+2024-06-21 04:42:00,INFO,Error 393: Error occurred in module auth..,module2,Bob
+2024-06-21 04:46:00,DEBUG,User Bob logged in.,module3,Bob
+2024-06-21 05:40:00,WARNING,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-21 05:50:00,DEBUG,Warning: Resource CPU usage is high..,module2,Charlie
+2024-06-21 06:36:00,INFO,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-21 07:02:00,WARNING,Error 661: Error occurred in module search..,module3,Bob
+2024-06-21 07:49:00,INFO,User Bob logged in.,module2,Bob
+2024-06-21 08:17:00,WARNING,Error 211: Error occurred in module profile..,module2,Bob
+2024-06-21 08:52:00,DEBUG,Error 266: Error occurred in module search..,module1,Bob
+2024-06-21 09:04:00,ERROR,User Bob performed action search.,module2,Bob
+2024-06-21 09:21:00,ERROR,User Bob performed action login.,module1,Bob
+2024-06-21 09:41:00,DEBUG,Error 649: Error occurred in module search..,module1,Bob
+2024-06-21 10:23:00,WARNING,User Charlie performed action search.,module2,Charlie
+2024-06-21 10:51:00,DEBUG,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-21 10:55:00,DEBUG,User Bob logged in.,module1,Bob
+2024-06-21 10:59:00,INFO,Error 951: Error occurred in module search..,module2,Alice
+2024-06-21 11:47:00,DEBUG,User Alice performed action update.,module1,Alice
+2024-06-21 12:19:00,WARNING,Error 414: Error occurred in module auth..,module3,Alice
+2024-06-21 12:54:00,INFO,User Charlie logged in.,module1,Charlie
+2024-06-21 13:21:00,INFO,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-21 14:10:00,ERROR,Warning: Resource Disk usage is high..,module1,Diana
+2024-06-21 14:28:00,WARNING,User Diana performed action login.,module1,Diana
+2024-06-21 15:15:00,WARNING,Warning: Resource Disk usage is high..,module3,Alice
+2024-06-21 15:28:00,DEBUG,User Bob logged in.,module3,Bob
+2024-06-21 15:42:00,INFO,User Bob performed action update.,module1,Bob
+2024-06-21 16:23:00,DEBUG,Error 539: Error occurred in module auth..,module3,Diana
+2024-06-21 17:05:00,DEBUG,User Diana logged in.,module2,Diana
+2024-06-21 17:45:00,WARNING,Error 925: Error occurred in module search..,module2,Bob
+2024-06-21 18:36:00,WARNING,Error 913: Error occurred in module search..,module3,Charlie
+2024-06-21 19:07:00,ERROR,User Bob performed action login.,module1,Bob
+2024-06-21 19:32:00,INFO,User Bob logged in.,module2,Bob
+2024-06-21 19:47:00,WARNING,Warning: Resource Memory usage is high..,module3,Charlie
+2024-06-21 20:32:00,WARNING,User Diana performed action update.,module1,Diana
+2024-06-21 21:23:00,DEBUG,Warning: Resource Memory usage is high..,module1,Diana
+2024-06-21 21:40:00,DEBUG,Error 172: Error occurred in module profile..,module1,Alice
+2024-06-21 22:33:00,DEBUG,Error 313: Error occurred in module search..,module3,Charlie
+2024-06-21 23:21:00,ERROR,Warning: Resource CPU usage is high..,module2,Charlie
+2024-06-21 23:47:00,INFO,User Diana performed action logout.,module3,Diana
+2024-06-22 00:16:00,WARNING,Error 105: Error occurred in module auth..,module2,Charlie
+2024-06-22 01:07:00,ERROR,Warning: Resource Disk usage is high..,module1,Bob
+2024-06-22 01:17:00,DEBUG,User Diana logged in.,module1,Diana
+2024-06-22 01:53:00,WARNING,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-22 02:46:00,WARNING,User Alice performed action logout.,module1,Alice
+2024-06-22 03:04:00,WARNING,Error 627: Error occurred in module auth..,module3,Diana
+2024-06-22 03:35:00,DEBUG,Error 364: Error occurred in module search..,module1,Alice
+2024-06-22 04:18:00,WARNING,User Bob performed action update.,module1,Bob
+2024-06-22 05:04:00,ERROR,Warning: Resource CPU usage is high..,module1,Charlie
+2024-06-22 05:40:00,WARNING,User Charlie performed action search.,module3,Charlie
+2024-06-22 06:06:00,DEBUG,User Charlie logged in.,module3,Charlie
+2024-06-22 06:48:00,INFO,User Diana performed action login.,module3,Diana
+2024-06-22 07:32:00,ERROR,Error 942: Error occurred in module search..,module3,Alice
+2024-06-22 07:55:00,DEBUG,User Bob logged in.,module3,Bob
+2024-06-22 08:37:00,WARNING,Error 798: Error occurred in module search..,module2,Charlie
+2024-06-22 09:18:00,WARNING,Error 864: Error occurred in module auth..,module3,Charlie
+2024-06-22 10:18:00,DEBUG,User Alice performed action login.,module2,Alice
+2024-06-22 11:09:00,DEBUG,Error 490: Error occurred in module auth..,module1,Alice
+2024-06-22 11:13:00,WARNING,Error 967: Error occurred in module auth..,module3,Bob
+2024-06-22 11:30:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-22 11:42:00,INFO,Warning: Resource Memory usage is high..,module2,Bob
+2024-06-22 12:07:00,ERROR,User Bob logged in.,module1,Bob
+2024-06-22 12:35:00,ERROR,Warning: Resource Disk usage is high..,module3,Bob
+2024-06-22 13:07:00,INFO,User Bob logged in.,module1,Bob
